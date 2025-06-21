@@ -10,7 +10,7 @@ Proyek ini adalah **crawler dan scraper web otomatis** untuk mengambil artikel d
 
 ## Video
 
-[![Video])](https://www.youtube.com/watch?v=BGt0YU2aaCw)
+[![Video](https://img.youtube.com/vi/BGt0YU2aaCw/0.jpg)](https://www.youtube.com/watch?v=BGt0YU2aaCw)
 
 ## ⚙️ Fungsi Dasar Crawler
 
