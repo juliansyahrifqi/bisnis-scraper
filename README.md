@@ -31,7 +31,11 @@ bisnis/
 ├── run_backtrack.py   # Menjalankan scraping berdasarkan tanggal mulai & akhir
 ├── crawler.py         # Fungsi untuk menjelajahi halaman indeks dan mendapatkan link
 ├── scraper.py         # Fungsi untuk mengambil konten artikel dari URL
-├── utils.py           # Fungsi bantu seperti membersihkan teks, parsing tangga
+├── utils.py           # Fungsi bantu seperti membersihkan teks, parsing tanggal, simpan ke JSON
+├── output/            # Folder output file hasil scraping
+```
+
+---
 
 ### 🔄 Alur Eksekusi Crawler
 
@@ -76,13 +80,13 @@ python -m venv venv
 
 source venv/bin/activate
 
-````
+```
 
 ### Install dependensi
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 ### Jalankan Script
 
